@@ -1,0 +1,2 @@
+# ImageProcessingGuiToolbox
+基于OpenCV编写的一些常用的图像处理算法工具箱
